@@ -19,7 +19,9 @@
   
   ## Installation
   
-  First you'll need to create your DB by running the schema.sql file in the MySQL shell. Once the DB is created you'll need to seed it by running "npm run seed" in the terminal. Once seeded you will need to run node server.js in the terminal so that port 3001 is listening. Then you can use Insomnia to call your API routes and make changes to the DB.
+  First you'll need to create your DB by running the schema.sql file in the MySQL shell. Once the DB is created you'll need to seed it by running "npm run seed" in the terminal. Once seeded you will need to run node server.js in the terminal so that port 3001 is listening. Then you can use Insomnia to call your API routes and make changes to the DB. Click [here](https://drive.google.com/file/d/1zKYIFV95hVbi3ON6KHAJ2VsCSjN7YURE/view) for a video tutorial.
+  
+
   
   ## Usage
   
